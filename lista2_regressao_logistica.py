@@ -1,6 +1,4 @@
-# Lista 2 - Regressao Logistica
-# Disciplina: Machine Learning
-# Aluno: [Seu Nome]
+#Daniel Cristiano
 
 # importando as bibliotecas
 import pandas as pd
